@@ -1,0 +1,15 @@
+{
+  "welcome": "Добре дошли",
+  "login": "Вход",
+  "logout": "Излез",
+  "forgotPassword": "Забравена парола",
+  "success": "Успех",
+  "email": "Имейл",
+  "password": "Парола",
+  "invalidCredentials": "Невалидни идентификационни данни",
+  "invalidEmailAddress": "Невалиден имейл адрес",
+  "successLogin": "Вие успешно се логнахте!",
+  "starWarsTable": "Таблица с героите на Междузвезни Войни",
+  "noConnection": "Няма интернет връзка!",
+  "close": "Затвори"
+}

@@ -1,0 +1,15 @@
+{
+  "welcome": "Welcome",
+  "login": "Login",
+  "logout": "Logout",
+  "forgotPassword": "Forgot Password",
+  "success": "Success",
+  "email": "Email",
+  "password": "Password",
+  "invalidCredentials": "Invalid credentials",
+  "invalidEmailAddress": "Invalid email address",
+  "successLogin": "You have successfully logged in!",
+  "starWarsTable": "Table with Star Wars Heroes",
+  "noConnection": "No Internet Connection!",
+  "close": "Close"
+}
